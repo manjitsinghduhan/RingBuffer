@@ -1,9 +1,3 @@
-/*
- * uart.h
- *
- *  Created on: Mar 28, 2017
- *      Author: Nimi
- */
 
 #ifndef UART_H_
 #define UART_H_
