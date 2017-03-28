@@ -1,10 +1,3 @@
-/*
- * uart.C
- *
- *  Created on: Mar 28, 2017
- *      Author: Nimi
- */
-
 
 
 #include "UART.h"
