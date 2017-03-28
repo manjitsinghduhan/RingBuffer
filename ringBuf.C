@@ -1,9 +1,3 @@
-/*
- * ringBuf.C
- *
- *  Created on: 28-Mar-2017
- *      Author: DuhanMan
- */
 
 #include <stdint.h>
 #include <stdbool.h>
